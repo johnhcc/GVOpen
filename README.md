@@ -1,8 +1,6 @@
 # ![Icon](https://images2.imgbox.com/78/8b/v4hxbHk4_o.png) GVOpen
 ### Version 2.2 (Released 2020/11/29)
 
-https://github.com/johnhcc
-
 ___
 
 ### Quick Installation:
@@ -89,6 +87,7 @@ The license for this software is provided in the [LICENSE.txt](LICENSE.txt) file
 
 The icon was derived from the public domain Tango icon theme.
 
-Contact information:<br/>
+Contact information:<br/><br/>
 John M. Haynes<br/>
-Email: johnhcc.code@gmail.com
+Website: https://github.com/johnhcc<br/>
+Email: johnhcc@vorticity.cc
